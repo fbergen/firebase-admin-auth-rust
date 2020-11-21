@@ -1,0 +1,1 @@
+# firebase-admin-auth-rust
